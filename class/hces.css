@@ -1,0 +1,51 @@
+.cover {
+background: url(6.jpg) no-repeat 0px 0;
+background-size: cover;
+padding: 0.5em 0 5em;
+}
+.judul h1 a{
+    color: #FFFfff;
+    font-size: .8em;
+    letter-spacing: 12px;
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+}
+.judul h1 a span{
+    display: block;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 8px;
+}
+.pasfoto{
+    float: left;
+    width: 35%;
+}
+.pasfoto img{
+    width: 100%;
+    border: solid 6px #ffffff;
+}
+.w3ls-banner-left-info {
+    padding: 1em 0;
+    border-bottom: 1px dashed #fff;
+}
+.w3ls-banner-left-info h4{
+    font-size: 1.4em;
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    color: #FFFFFF;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.w3ls-banner-left-info p{
+    font-size: 1.1em;
+    margin: 1em 0 0 0;
+    color: #cecece;
+}
+.w3ls-banner-left-info:nth-child(7){
+	border:none;
+}
+.clearfix{
+	clear: both;
+	display: table;
+  	content: " ";
+}
